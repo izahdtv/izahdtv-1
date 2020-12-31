@@ -1,0 +1,28 @@
+.app-button {
+  position: relative;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: bold;
+  color: #FFF;
+  text-decoration: none;
+  margin-top: 20px;
+  background: #ffb448;
+  padding: 15px 60px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  box-shadow: 0 2px 0 0 #cf8c2b;
+  -webkit-transition: 0.2s ease-in-out;  /* For Safari 3.1 to 6.0 */
+   transition: 0.2s ease-in-out;
+}
+
+.app-button:hover {
+  background: #3cc6ff;
+  box-shadow: 0 2px 0 0 #00a8ff;
+}
+
+.social-icon {
+  position:relative;
+  font-size: 2rem;
+  margin-right: 5px;
+  top: 6px;
+}
